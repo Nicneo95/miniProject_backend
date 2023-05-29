@@ -25,7 +25,8 @@ INSERT INTO `country` VALUES
 (3,'DE','Germany'),
 (4,'IN','India'),
 (5,'TR','Turkey'),
-(6,'US','United States');
+(6,'US','United States'),
+(7,'SG','Singapore');
 
 --
 -- Table structure for table `state`
@@ -269,6 +270,7 @@ INSERT INTO `state` VALUES
 (220,'Van',5),
 (221,'Yalova',5),
 (222,'Yozgat',5),
-(223,'Zonguldak',5);
+(223,'Zonguldak',5),
+(224,'Singapore',7);
 
 SET foreign_key_checks = 1;
